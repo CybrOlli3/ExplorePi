@@ -32,7 +32,7 @@
 Translate the file to your local language and make a PR
 
 [Click to help](https://github.com/pi-apps/ExplorePi/tree/main/website/locales)
-[Developer](github.com/CybrOlli3/)
+[Developer] (@CybrOlli3/)
 ## License
 
 ExplorePi is licensed under a PiOS license. See the
