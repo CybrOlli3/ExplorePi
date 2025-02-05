@@ -66,8 +66,7 @@ npm run build
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@0205miss](https://github.com/0205miss) - Develop
-- [@loume](https://github.com/loume) - Develop
+- [@cybrOlli3] (https://github.com/cybrOlli3)- Develop
 
 ##  LICENSE <a name = "license"></a>
 
