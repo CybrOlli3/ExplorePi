@@ -66,7 +66,7 @@ npm start
 - [StellarSDK](https://github.com/stellar/js-stellar-sdk) - BlockchainTool
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@0205miss](https://github.com/0205miss) - Develop
+- [@CybrOlli3](github.com/CybrOlli3/) - Develop
 
 
 
